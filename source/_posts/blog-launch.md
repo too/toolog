@@ -17,7 +17,7 @@ tags:
 - [Hexo](https://hexo.io/)，**“A fast, simple & powerful blog framework“**，使用 markdwon 文件来生成静态网站，一个台湾小伙子用 JavaScript 写的。
 - [NexT 主题](http://theme-next.iissnan.com/)，**”精于心，简于形，Elegant Theme for Hexo“**，让我看到之后就念念不忘，有时候外表真的很重要。
 
-主要就是使用到上面的连个东东，参考了网上一些文章，部署到了 Github Pages 上，由于 github.io 国内访问有问题，同时部署了一份到 coding.net 上，访问地址是 http://yglb.us
+主要就是使用到上面的连个东东，参考了网上一些文章，部署到了 Github Pages 上，由于 github.io 国内访问有问题，同时部署了一份到 coding.net 上，访问地址是 http://hx.fctoo.com
 
 ## hexo & NexT theme 配置记录
 具体参考官网文档和下面的参考链接文章差不多了，其中有几个要注意的地方列在下面：

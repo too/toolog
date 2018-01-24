@@ -65,6 +65,15 @@ pagination_dir: page
 sitemap:
   path: sitemap.xml
 
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+
 ## Themes: https://hexo.io/themes/
 theme: next
 
