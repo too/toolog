@@ -4,7 +4,7 @@
 
     <script type="text/javascript">
       DiscourseEmbed = { discourseUrl: 'http://t.fctoo.com/',
-                         discourseEmbedUrl: 'http://hx.fctoo.com{{ url_for(post.path) }}' };
+                         discourseEmbedUrl: '{{ page.permalink }}' };
 
       (function() {
         var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
