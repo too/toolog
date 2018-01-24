@@ -368,4 +368,16 @@
     </footer>
   </article>
 
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'http://t.fctoo.com/',
+                     discourseEmbedUrl: 'http://hx.fctoo.com{{ url_for(post.path) }}' };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
 {% endmacro %}
