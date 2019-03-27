@@ -14,8 +14,8 @@ tags:
 作为个人 Blog，分享和记录一些技术和生活相关的东西吧。主要会涉及 Python，web 开发，hacker 主题等，成都相关的一些技术活动也会有吧。目前先打算这样，毕竟用 markdown 来做各种记录应该还是很方便的，说了那么久要用起来，先上路，再瞄准吧。
 <!-- more -->
 # 这个站是怎么做的
-- [Hexo](https://hexo.io/)，**“A fast, simple & powerful blog framework“**，使用 markdwon 文件来生成静态网站，一个台湾小伙子用 JavaScript 写的。
-- [NexT 主题](http://theme-next.iissnan.com/)，**”精于心，简于形，Elegant Theme for Hexo“**，让我看到之后就念念不忘，有时候外表真的很重要。
+- [Hexo](https://hexo.io/)，**"A fast, simple & powerful blog framework"**，使用 markdwon 文件来生成静态网站，一个台湾小伙子用 JavaScript 写的。
+- [NexT 主题](http://theme-next.iissnan.com/)，**"精于心，简于形，Elegant Theme for Hexo"**，让我看到之后就念念不忘，有时候外表真的很重要。
 
 主要就是使用到上面的连个东东，参考了网上一些文章，部署到了 Github Pages 上，由于 github.io 国内访问有问题，同时部署了一份到 coding.net 上，访问地址是 http://hx.fctoo.com
 
