@@ -12,8 +12,7 @@ Too 是我在网络上使用的 ID 或昵称，线下现实生活中我也觉得
 
 目前这个网站可以通过以下域名访问：
 1. hx.fctoo.com 部署在 coding.me，方便国内用户访问
-2. hx.ttoo.me 和 hx.fctoo.com 一样，指向 coding.me
-3. blog.ttoo.me 部署在 github.io，有被墙的嫌疑，访问可能不稳定
+2. too.github.io 部署在 github.io，有被墙的嫌疑，访问可能不稳定
 
 具体怎么搭建和使用到的工具见[第一个日志](/2017/02/08/blog-launch/)。
 # 网上链接
