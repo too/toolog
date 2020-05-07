@@ -3,7 +3,7 @@
     <div id='discourse-comments'></div>
 
     <script type="text/javascript">
-      DiscourseEmbed = { discourseUrl: 'http://t.fctoo.com/',
+      DiscourseEmbed = { discourseUrl: 'https://hxia.men/',
                          discourseEmbedUrl: '{{ page.permalink }}' };
 
       (function() {
